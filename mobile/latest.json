@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.1.8",
-  "versionCode": 10,
-  "publishedAt": "2026-09-11T06:05:55.837Z",
+  "version": "1.1.9",
+  "versionCode": 11,
+  "publishedAt": "2026-09-11T06:42:09.715Z",
   "downloads": {
     "android": {
       "label": "Android phone or tablet",
-      "fileName": "GBF-Songbook-1.1.8-Android.apk",
+      "fileName": "GBF-Songbook-1.1.9-Android.apk",
       "format": "apk",
       "applicationId": "org.gbfblr.music",
       "minimumAndroid": 7,
-      "url": "https://github.com/brianthomas-ui/gbf-songbook-projector-releases/releases/download/mobile-v1.1.8/GBF-Songbook-1.1.8-Android.apk",
-      "sha256": "ac1afdde1b34d7c36ea72ed0de4201c5f435085554325d4a348d2505cd33de9f",
-      "bytes": 7304987
+      "url": "https://github.com/brianthomas-ui/gbf-songbook-projector-releases/releases/download/mobile-v1.1.9/GBF-Songbook-1.1.9-Android.apk",
+      "sha256": "85f9647eebd0f655a27594e5142f2357aa8f8a0ee95f05ce569e6a90cedd3400",
+      "bytes": 7304883
     }
   },
   "ios": {
