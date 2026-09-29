@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.1.48",
-  "versionCode": 50,
-  "publishedAt": "2026-09-29T05:55:00.018Z",
+  "version": "1.1.49",
+  "versionCode": 51,
+  "publishedAt": "2026-09-29T06:42:47.399Z",
   "downloads": {
     "android": {
       "label": "Android phone or tablet",
-      "fileName": "GBF-Songbook-1.1.48-Android.apk",
+      "fileName": "GBF-Songbook-1.1.49-Android.apk",
       "format": "apk",
       "applicationId": "org.gbfblr.music",
       "minimumAndroid": 7,
-      "url": "https://github.com/brianthomas-ui/gbf-songbook-projector-releases/releases/download/mobile-v1.1.48/GBF-Songbook-1.1.48-Android.apk",
-      "sha256": "1ba646f47a6fc0613f87e19e1d120891f8d919cfef3ca677a0dc37e707409d94",
-      "bytes": 8298919
+      "url": "https://github.com/brianthomas-ui/gbf-songbook-projector-releases/releases/download/mobile-v1.1.49/GBF-Songbook-1.1.49-Android.apk",
+      "sha256": "b05be18c387f444ad38fa1f815075c111000547a43837430d580a71dc4ff7111",
+      "bytes": 8298887
     }
   },
   "webBundle": {
-    "version": "1.1.80",
-    "fileName": "GBF-Songbook-web-1.1.80.zip",
-    "url": "https://github.com/brianthomas-ui/gbf-songbook-projector-releases/releases/download/mobile-v1.1.48/GBF-Songbook-web-1.1.80.zip",
-    "sha256": "d88223836f58eb5594bd541bebfc61ac66fc5826f221fcfbd9323f376b93df83",
-    "bytes": 4873805,
+    "version": "1.1.81",
+    "fileName": "GBF-Songbook-web-1.1.81.zip",
+    "url": "https://github.com/brianthomas-ui/gbf-songbook-projector-releases/releases/download/mobile-v1.1.49/GBF-Songbook-web-1.1.81.zip",
+    "sha256": "ec8fdb9aedf9f13cde2cfaa94065e448b978e83bf376eb3f8ae8a19ce0fb06e7",
+    "bytes": 4873717,
     "minNativeVersionCode": 24
   },
   "ios": {
